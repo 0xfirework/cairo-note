@@ -18,7 +18,7 @@ sudo n 16.10
 
 
 
-运行
+运行这段
 
 ```bash
 corepack enable
